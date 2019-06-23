@@ -3,6 +3,7 @@
 using PyCall
 using SQLite
 using MySQL
+using Retriever
 
 os = pyimport("os")
 
